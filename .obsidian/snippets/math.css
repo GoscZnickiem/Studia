@@ -1,0 +1,14 @@
+.callout[data-callout="tw"] {
+	--callout-color: 255, 158, 100;
+	--callout-icon: lucide-book-marked;
+}
+
+.callout[data-callout="def"] {
+	--callout-color: 158, 206, 106;
+	--callout-icon: lucide-info;
+}
+
+.callout[data-callout="comment"] {
+	--callout-color: 124, 127, 256;
+	--callout-icon: lucide-message-square-more;
+}
