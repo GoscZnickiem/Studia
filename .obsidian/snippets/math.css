@@ -1,5 +1,5 @@
 .callout[data-callout="tw"] {
-	--callout-color: 255, 158, 100;
+	--callout-color: 255, 138, 80;
 	--callout-icon: lucide-book-marked;
 }
 
@@ -11,4 +11,14 @@
 .callout[data-callout="comment"] {
 	--callout-color: 124, 127, 256;
 	--callout-icon: lucide-message-square-more;
+}
+
+.callout[data-callout="lemat"] {
+	--callout-color: 250, 250, 150;
+	--callout-icon: lucide-bookmark-plus;
+}
+
+.callout[data-callout="dowód"] {
+	--callout-color: 207, 139, 199;
+	--callout-icon: lucide-lightbulb;
 }
